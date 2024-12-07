@@ -1,7 +1,7 @@
 # 490_Hackathon
 ## Overview
 This repository contains 5 files:
-- K-Means.py : A Pythion code to run the K-Means algorithm.
+- K-Means.py : A Python code to run the K-Means algorithm.
 - Model.ipynb : A Jupyter notebook that contains my model.
 - README.md : A readme to understand how to run the model.
 - requirements.txt : A text file containing the required modules to run the model properly.
