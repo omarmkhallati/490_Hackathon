@@ -13,8 +13,8 @@ Before starting, please make sure you have the following installed :
 - Necessary libraries : `numpy`, `pandas`, `matplotlib`, etc. They are found in the requirements.txt file : `pip install -r requirements.txt`
 ## Instructions
 ### 1. Download The Repository
-- Download the repository using the link : OR
-- Use cmd to download the repository : `git clone `
+- Download the repository using the link https://github.com/omarmkhallati/490_Hackathon : OR
+- Use cmd to download the repository : `git clone https://github.com/omarmkhallati/490_Hackathon`
 ### 2. Run K-Means.py
 - Open the K-Means.py file in any IDE or editor.
 - Change the path in line 8 to the path to the CSV data file.
